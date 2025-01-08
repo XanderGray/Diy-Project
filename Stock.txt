@@ -1,0 +1,13 @@
+Screwdriver:0987654:Tools:A1:3
+Vice:0123222:Tools:A1:1
+Spanner:0123321:Tools:A1:12
+Hammer:0123456:Tools:A1:23
+Ruler:0876234:Tools:A1:23
+Glue:0111111:Chemicals:A2:123
+FoamFiller:0234234:Chemicals:A2:12
+Nails:0121212:Fasteners:B1:298
+Screws:0210210:Fasteners:B1:178
+Bolts:0234532:Fasteners:B1:126
+Paint:0123765:Paints:B2:23
+Paintbrush:0574392:Paints:B2:21
+Bleach:0123432:Cleaning:C1:75
